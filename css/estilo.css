@@ -1,0 +1,32 @@
+/*1*/
+.pf1{
+	color: red;
+}
+/*2*/
+p span em{
+	font-size: 20px;
+}
+p em{
+	font-size: 20px;
+}
+/*3*/
+b{
+	color: red;
+	text-decoration: underline;
+}
+/*4*/
+*{
+	font-family: arial;
+	background-color: #F1F33E ;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+/*5*/
+h2{
+	color: blue;
+}
+#pf3{
+	background-color: red;
+}
